@@ -11,21 +11,20 @@ class Me:
     ]
     Code = [
         'Python', # My favorite.
-        'C++', # Learning...
+        'Golang', # Learning...
+        'C/C++', # Learning...
         'JavaScript' # Just a little.
     ]
     Technologys = [
-        'VueJS',
+        'Flask',
         'PyTorch',
         'jQuery',
         'Bootstrap',
-        'SQLite',
-        'Flask'
+        'Vue'
     ]
     
 person = Me()
-print("Hello👋.")
-```
+print(f'Hello👋. I am {person.Name}.')```
 
 <hr>
 
