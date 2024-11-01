@@ -7,20 +7,21 @@ class Me:
     Age = 15
     SpokenLanguage = [
         'Chinese',
-        'Some English'
+        'English'
     ]
     Code = [
         'Python', # My favorite.
-        'Golang', # Learning...
+        'TypeScript', # Just a little.
+        'JavaScript', # Just a little.
         'C/C++', # Learning...
-        'JavaScript' # Just a little.
+        'Golang' # Learning...
     ]
     Technologys = [
         'Flask',
         'PyTorch',
+        'Vue',
         'jQuery',
         'Bootstrap',
-        'Vue'
     ]
     
 person = Me()
