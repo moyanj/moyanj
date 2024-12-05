@@ -11,16 +11,16 @@ class Me:
     ]
     Code = [
         'Python', # My favorite.
-        'TypeScript', # Just a little.
-        'JavaScript', # Just a little.
-        'C/C++', # Learning...
+        'TypeScript',
+        'JavaScript',
+        'C/C++', # Just a little.
         'Golang' # Learning...
     ]
     Technologys = [
         'Flask',
         'PyTorch',
         'Vue',
-        'jQuery',
+        'FastAPI',
         'Bootstrap',
     ]
     
