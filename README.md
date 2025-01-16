@@ -1,44 +1,37 @@
-# Hello there 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=moyanj.moyanj)
+# Hi there, I'm Moyanj! 👋
 
-```python
-class Me:
-    Name = 'MoYan'
-    Age = 15
-    SpokenLanguage = [
-        'Chinese',
-        'English'
-    ]
-    Code = [
-        'Python', # My favorite.
-        'TypeScript',
-        'JavaScript',
-        'C/C++', # Just a little.
-        'Golang' # Learning...
-    ]
-    Technologys = [
-        'Flask',
-        'PyTorch',
-        'Vue',
-        'FastAPI',
-        'Bootstrap',
-    ]
-    
-person = Me()
-print(f'Hello👋. I am {person.Name}.')
-```
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a little bit about me:
 
-<hr>
+## 🔧 Technologies & Tools
 
-## My Status
+- **Languages:** Python, TypeScript, C++, Golang
+- **Frameworks:** Flask, 
+- **Tools:** Git, Docker
+- **Databases:** MySQL, PostgreSQL, Redis
 
-![My statistical analysis](https://github-readme-stats.vercel.app/api?username=moyanj&show_icons=true&theme=tokyonight)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanj)](https://github.com/Christmas/github-readme-stats)
-<br>
+## 📈 GitHub Stats
 
-## MyWebSite
+![Moyanj's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyanj&show_icons=true&theme=radical)
 
-[FireflyEnch](https://img.moapps.top): A ACGN picture station
+## 🚀 Projects
 
-[SearXNG](https://s.moapps.top): SearXNG built by myself
+Here are some of the projects I've been working on:
+
+- **[HoYoCenter](https://github.com/moyanj/HoYoCenter):** A cross platform miHoYo series game data query tool.
+- **[AList3SDK](https://github.com/moyanj/AList3SDK):** A Python SDK for integrating and interacting with AList services.
+- **[PackDB](https://github.com/moyanj/PackDB):** Discover Python packages that make your code fly
+
+## 📫 How to Reach Me
+
+- **Email:** [moyan@moyanjdc.top](mailto:moyan@moyanjdc.top)
+- **Twitter:** [@moyanjdc](https://twitter.com/moyanjdc)
+
+## 🌟 Fun Facts
+
+- I love exploring new technologies and frameworks.
+- In my free time, I enjoy reading tech blogs and contributing to open-source projects.
+- I'm very love play Genshin Impact and Honkai: StarRail.
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate.
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=moyanj.moyanj)
