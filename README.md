@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, TypeScript, C++, Rust
-- **Frameworks:** Flask, PyTorch, Nonebot
-- **Tools:** Git, Docker
+- **Frameworks:** FastAPI, PyTorch, Vue, Nonebot
+- **Tools:** Git, Docker, Docker Compose
 - **Databases:** Redis, SQLite
 
 ## 📈 GitHub Stats
