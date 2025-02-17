@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, TypeScript, C++, Golang
-- **Frameworks:** Flask, 
+- **Languages:** Python, TypeScript, C++, Rust
+- **Frameworks:** Flask, PyTorch, Nonebot
 - **Tools:** Git, Docker
-- **Databases:** MySQL, PostgreSQL, Redis
+- **Databases:** Redis, SQLite
 
 ## 📈 GitHub Stats
 
@@ -24,13 +24,13 @@ Here are some of the projects I've been working on:
 ## 📫 How to Reach Me
 
 - **Email:** [moyan@moyanjdc.top](mailto:moyan@moyanjdc.top)
-- **Twitter:** [@moyanjdc](https://twitter.com/moyanjdc)
+- **Blog** [https://blog.moyanjdc.top/](https://blog.moyanjdc.top/)
 
 ## 🌟 Fun Facts
 
 - I love exploring new technologies and frameworks.
 - In my free time, I enjoy reading tech blogs and contributing to open-source projects.
-- I'm very love play Genshin Impact and Honkai: StarRail.
+- I'm very love play Honkai: StarRail.
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate.
 
