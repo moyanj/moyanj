@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, TypeScript, C++, Rust
+- **Languages:** Python, TypeScript, Rust, C++
 - **Frameworks:** FastAPI, PyTorch, Vue, Nonebot
 - **Tools:** Git, Docker, Docker Compose
 - **Databases:** Redis, SQLite, MySQL
@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 Here are some of the projects I've been working on:
 
 - **[HoYoCenter](https://github.com/moyanj/HoYoCenter):** A cross platform miHoYo series game data query tool.
+- **[HoYoCenter](https://github.com/moyanj/KianaFS):** A lightweight, high-performance distributed storage system.
 - **[AList3SDK](https://github.com/moyanj/AList3SDK):** A Python SDK for integrating and interacting with AList services.
 - **[PackDB](https://github.com/moyanj/PackDB):** Discover Python packages that make your code fly
 
