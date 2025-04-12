@@ -1,4 +1,4 @@
-# Hi there, I'm Moryan! 👋
+# Hi there, I'm Moyan! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a little bit about me:
 
