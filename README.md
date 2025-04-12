@@ -11,9 +11,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 📈 GitHub Stats
 
-![Moyanj's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyanj&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanj)](https://github.com/Christmas/github-readme-stats)
-
+![Moyanj's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyanj&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanj&layout=compact&hide=html)
 ## 🚀 Projects
 
 Here are some of the projects I've been working on:
