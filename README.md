@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, TypeScript, Rust, C++
-- **Frameworks:** FastAPI, PyTorch, Vue, Nonebot
+- **Frameworks:** FastAPI, PyTorch, Vue, Actix-Web, Nonebot
 - **Tools:** Git, Docker, Docker Compose
 - **Databases:** Redis, SQLite, MySQL
 
@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ![Moyanj's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyanj&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanj&layout=compact&hide=html)
+
 ## 🚀 Projects
 
 Here are some of the projects I've been working on:
@@ -35,4 +36,4 @@ Here are some of the projects I've been working on:
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate.
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=moyanj.moyanj)
+![Visitor Count](https://count.moeyy.cn/get/@moyanjddc?theme=gelbooru)
