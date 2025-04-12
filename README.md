@@ -36,4 +36,4 @@ Here are some of the projects I've been working on:
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate.
 
-![Visitor Count](https://count.moeyy.cn/get/@moyanjddc?theme=gelbooru)
+![Visitor Count](https://count.moeyy.cn/get/@moyanjdc?theme=gelbooru)
