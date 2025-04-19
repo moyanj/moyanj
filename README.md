@@ -34,7 +34,7 @@ Here are some of the projects I've been working on:
 
 - I love exploring new technologies and frameworks.
 - In my free time, I enjoy reading tech blogs and contributing to open-source projects.
-- I'm very love play Honkai: StarRail (Blade main since v1.0).
+- I'm very love play Honkai: StarRail (Since v1.0).
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate.
 
