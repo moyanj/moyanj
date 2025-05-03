@@ -23,8 +23,7 @@ Here are some of the projects I've been working on:
 - **[HoYoCenter](https://github.com/moyanj/HoYoCenter):** A cross platform miHoYo series game data query tool.
 - **[KianaFS](https://github.com/moyanj/KianaFS):** A lightweight, high-performance distributed storage system.
 - **[AList3SDK](https://github.com/moyanj/AList3SDK):** A Python SDK for integrating and interacting with AList services.
-- **[PackDB](https://github.com/moyanj/PackDB):** Discover Python packages that make your code fly
-
+- **[hitokoto-rust](https://github.com/moyanj/hitokoto-rust):** A high-performance Rust-based Hitokoto API service implementation using Actix-web and sqlx
 ## 📫 How to Reach Me
 
 [![Blog](https://img.shields.io/badge/🧠_Tech_Blog-FF7139?style=flat-square)](https://blog.moyanjdc.top/)
